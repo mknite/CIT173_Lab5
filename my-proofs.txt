@@ -1,0 +1,5 @@
+1, /proc/version, Linux version 5.0.6-200.fc29.x86_64
+2, /proc/cpuinfo, model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, cpu cores	: 1, cache size	: 9216 KB
+3, /proc/meminfo, MemTotal:        2013732 kB
+4, /proc/
+8, /proc/fb, 0 svgadrmfb

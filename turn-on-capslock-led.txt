@@ -1,0 +1,12 @@
+
+#ls /sys/class
+#ls /sys/class/leds
+#ls /sys/class/leds/input1::capslock
+#cat /sys/class/leds/input1::capslock/brightness
+#login as superuser
+#vi ls /sys/class/leds/input1::capslock/brightness
+#type 'o' to insert
+#change 0 to 1 or vice versa  1 to 0
+#escape
+#type ':w' to write
+#type ':q' to quit
